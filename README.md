@@ -1,10 +1,10 @@
 # tugasUAS
-##user login
-username: irma@irma.com
+##user login <br />
+username: irma@irma.com<br />
 password: irma12345@
 
-Wordpress version 7.0
-PHP Version 8.2.12
+Wordpress version 7.0 <br />
+PHP Version 8.2.12 <br />
 
 ##Screenshot tampilan singkat
 
